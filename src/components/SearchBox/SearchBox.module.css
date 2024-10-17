@@ -1,0 +1,22 @@
+.searchBox {
+  width: 350px;
+  margin-bottom: 20px;
+}
+
+.searchBoxContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.searchBoxContainer label {
+  font-size: 16px;
+  color: #333;
+}
+
+.searchBoxContainer input {
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
